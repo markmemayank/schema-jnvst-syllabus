@@ -1,0 +1,38 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "JNVST Class Six Detailed Syllabus",
+  "description": "Get the detailed syllabus for the Jawahar Navodaya Vidyalaya Selection Test (JNVST) for Class 6 here. Learn about the exam pattern, subjects, and important topics for JNVST Class 6.",
+  "mainEntity": {
+    "@type": "Article",
+    "headline": "JNVST Class Six Detailed Syllabus",
+    "description": "Get the detailed syllabus for the Jawahar Navodaya Vidyalaya Selection Test (JNVST) for Class 6 here. Learn about the exam pattern, subjects, and important topics for JNVST Class 6.",
+    "articleSection": "JNVST Class 6 Syllabus",
+    "publisher": {
+      "@type": "Organization",
+      "name": "JNVST Prep",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://jnvstprep.com/wp-content/uploads/2021/05/cropped-JNVST-Prep-Logo-2-1-270x270.png",
+        "width": 270,
+        "height": 270
+      }
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Your Name Here"
+    },
+    "keywords": "JNVST, JNVST Class 6, JNVST Syllabus, JNVST Exam Pattern",
+    "datePublished": "2023-03-21",
+    "dateModified": "2023-03-21",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://jnvstprep.com/wp-content/uploads/2022/11/JNVST-Class-6-Syllabus.png",
+      "width": 1200,
+      "height": 630
+    }
+  },
+  "url": "https://jnvstprep.com/jnvst-class-six-detailed-syllabus/"
+}
+</script>
